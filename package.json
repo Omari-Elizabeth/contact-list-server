@@ -1,0 +1,14 @@
+{
+  "name": "contactlist-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "Omari",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
